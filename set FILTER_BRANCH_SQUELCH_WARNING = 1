@@ -1,0 +1,47 @@
+[33mcommit d3cdf24c417616c2ac5b6c97dc709c69a83c27f1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: gitexpert718 <kongfupanda2050@gmail.com>
+Date:   Sun Mar 1 02:46:30 2020 +0800
+
+    modify the counters.jsx
+
+[33mcommit 3a66ace7d71f6138b99e00140c8fdbd28b4f7d6e[m
+Author: gitexpert718 <kongfupanda2050@gmail.com>
+Date:   Sun Mar 1 02:22:34 2020 +0800
+
+    add the NavBar
+
+[33mcommit b42663dedf3741368d67a85b138f77fe162a65bd[m
+Author: gitexpert718 <kongfupanda2050@gmail.com>
+Date:   Sun Mar 1 02:22:04 2020 +0800
+
+    add the navbar
+
+[33mcommit 07aa4f0da22b88cc046ee69bec103216ba6600ba[m
+Author: gitexpert718 <kongfupanda2050@gmail.com>
+Date:   Sat Feb 29 09:22:02 2020 +0800
+
+    add reset button
+
+[33mcommit 61c00f5df292b4cac382d4de8e4f7957c2ba7826[m
+Author: gitexpert718 <kongfupanda2050@gmail.com>
+Date:   Sat Feb 29 08:46:06 2020 +0800
+
+    add delete button
+
+[33mcommit a3dfeb2287703877a5d33f077cbd6904e10a3604[m
+Author: gitexpert718 <kongfupanda2050@gmail.com>
+Date:   Sat Feb 29 08:23:42 2020 +0800
+
+    add the Increment button
+
+[33mcommit 6d75c139b9979b5c2163e56ccfcbf8effe71b7e1[m
+Author: gitexpert718 <kongfupanda2050@gmail.com>
+Date:   Sat Feb 29 02:19:30 2020 +0800
+
+    rendering classes dynamicallyy
+
+[33mcommit cbfd66061c0a76fa00a17d87bf70647f21b5beb5[m
+Author: gitexpert718 <kongfupanda2050@gmail.com>
+Date:   Sat Feb 29 02:07:59 2020 +0800
+
+    init project
